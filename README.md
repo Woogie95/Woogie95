@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
+
 <div align="center"> 
  <br/>
   
@@ -41,3 +43,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/notion-527FFF?style=for-the-badge&logo=notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <br/>
+-->
